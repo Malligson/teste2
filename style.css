@@ -68,6 +68,7 @@ body{
 }
 
 .img img{
-    width: 150%;
+width: 100%;
+ border-radius: 0%;
    
 }
